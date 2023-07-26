@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: hsl(189, 76%, 15%);
 
 }
 header{
@@ -44,7 +44,7 @@ header nav a:hover{
 }
 footer{
     min-height: 50px;
-    background-color: black;
+    background-color: hsl(160, 76%, 15%);;
 }
 footer p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
